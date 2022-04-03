@@ -2,6 +2,8 @@
 L + ratio Ucheck
 
 you need getpass and selenium
+
+
 you also need to get chromedriver
 
 
